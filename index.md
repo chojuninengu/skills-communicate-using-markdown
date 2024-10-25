@@ -5,3 +5,6 @@ Did your know that the lord **GOD** WANTS YOU TO PROSPER AND BE IN HEALTH
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
